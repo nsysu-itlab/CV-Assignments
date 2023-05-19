@@ -1,1 +1,6 @@
 assignment2/save_dir/
+assignment4/ckpt_fashion/
+assignment4/ckpt_dogcat/
+assignment4/train/
+*.pkl
+*.zip
